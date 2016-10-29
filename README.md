@@ -1,2 +1,2 @@
 # First Repository
-This is ESD Robotics Team's first repo. Leave a comment if you're on the team and we'll add you to the organization.
+This is ESD Robotics Team's first repo. If you're on the team, add an "issue" to the "Issues" section of the repository so that we can add you to the organization.
