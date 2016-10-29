@@ -1,2 +1,2 @@
 # First Repository
-This is ESD Robotics Team's first repo. If you're on the team, add an "issue" to the "Issues" section of the repository so that we can add you to the organization. Make the title and description whatever you want. We just need to know your account names so that we can add you. If you don't already have a GitHub account, you will not be able to add an issue. Also, if you do create an account, make it under your ESD email address.
+This is ESD Robotics Team's first repo. If you're on the team, click the "watch" button in the top right corner of the screen. If you don't already have a GitHub account, you will need to create one. Also, if you do create an account, make it under your ESD email address.
